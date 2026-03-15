@@ -44,9 +44,10 @@ Crio projetos modernos e interativos, compartilho conhecimento e estou sempre ap
 
 ## 📫 Contato
  
-- 💼 LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/matheus-moretti-ab8a101a4/)  
+- 💼 LinkedIn
+- (https://www.linkedin.com/in/matheus-moretti-ab8a101a4/)  
 - 📧 E-mail: morettimatheus59@gmail.com
-- 🐙 GitHub: [github.com/Matheusmoretti352](https://github.com/Matheusmoretti352)  
+- 🐙 GitHub: (https://github.com/Matheusmoretti352)  
 
 ---
 
