@@ -23,7 +23,10 @@ Crio projetos modernos e interativos, compartilho conhecimento e estou sempre ap
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-     Ainda em Processo
+    ### 📌 Cadastro de Usuários
+Sistema de cadastro de usuários com operações CRUD utilizando JavaScript.
+🔗 [Acessar repositório](https://github.com/Matheusmoretti352/cadastro-usuarios)
+     
 
 > ⚡ Todos os projetos são open-source e disponíveis para colaboração.  
 
