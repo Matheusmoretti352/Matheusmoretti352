@@ -23,9 +23,14 @@ Crio projetos modernos e interativos, compartilho conhecimento e estou sempre ap
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
+
+    ### 📌 To-Do List
+Aplicação de lista de tarefas com funcionalidades de criação, conclusão e remoção de tarefas, utilizando armazenamento local.
+🔗 (https://github.com/Matheusmoretti352/todo-list)
+
     ### 📌 Cadastro de Usuários
 Sistema de cadastro de usuários com operações CRUD utilizando JavaScript.
-🔗 [Acessar repositório](https://github.com/Matheusmoretti352/cadastro-usuarios)
+🔗 (https://github.com/Matheusmoretti352/cadastro-usuarios)
      
 
 > ⚡ Todos os projetos são open-source e disponíveis para colaboração.  
